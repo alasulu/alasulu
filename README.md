@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is [Your Name] and I'm a [Your Profession], from [Your Country]</h2>
+<h2 align="left">Welcome! My name is Oğuzhan Alasulu and I'm a Electrical-Electronics Engineer, </h2>
 
 ###
 
@@ -16,12 +16,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="30" alt="labview logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="matlab logo"  />
 </div>
 
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution-2.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
@@ -36,15 +40,16 @@ I'm an Electrical-Electronics Engineering student with a strong passion for RF, 
 
 ## Technical Skills
 - **Programming Languages:** Embedded C, Python, MATLAB, LabVIEW, VHDL
-- **Software:** CST Microwave Studio, Ansys HFSS, DesignPro, LTSpice, Cadence Virtuoso
+- **Software:** CST Microwave Studio, Ansys HFSS, DesignPro, LTSpice, Altium Designer, Autodesk Fusion 360
+- **Laboratory Instruments:** Signal Spectrum Analyzer, Vector Network Analyzer, PCB Engraving Machine
 
 ## Projects
 
-### Image Processing Projects in MATLAB
+### Image Processing Repositories in MATLAB
 Below are some of my MATLAB projects focused on image processing:
-- **[Project Name 1](https://github.com/yourusername/project1):** A brief description of what this project does.
-- **[Project Name 2](https://github.com/yourusername/project2):** A brief description of what this project does.
-- **[Project Name 3](https://github.com/yourusername/project3):** A brief description of what this project does.
+- [Advanced Brain Tumor-Detection Algorithm Utilizing MATLAB Project]([https://github.com/yourusername/project1](https://github.com/alasulu/Advanced-Brain-Tumor-Detection-Algorithm-Utilizing-MATLAB-Project)): This repository contains MATLAB preprocessing/segmentation, feature extraction code for the project. For the upcoming part of the project, use the WEKA with extracted features .csv files.
+- [MATLAB Image Processing Onramp](https://github.com/alasulu/MATLAB-Image-Processing-Onramp)
+- [Image Processing HW6](https://github.com/alasulu/Image-Processing-Self-HW6):
 - **[Project Name 4](https://github.com/yourusername/project4):** A brief description of what this project does.
 - **[Project Name 5](https://github.com/yourusername/project5):** A brief description of what this project does.
 
