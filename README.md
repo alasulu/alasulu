@@ -47,11 +47,16 @@ I'm an Electrical-Electronics Engineering student with a strong passion for RF, 
 
 ### Image Processing Repositories in MATLAB
 Below are some of my MATLAB projects focused on image processing:
-- [Advanced Brain Tumor-Detection Algorithm Utilizing MATLAB Project]([https://github.com/yourusername/project1](https://github.com/alasulu/Advanced-Brain-Tumor-Detection-Algorithm-Utilizing-MATLAB-Project)): This repository contains MATLAB preprocessing/segmentation, feature extraction code for the project. For the upcoming part of the project, use the WEKA with extracted features .csv files.
+- [Advanced Brain Tumor-Detection Algorithm Utilizing MATLAB Project](https://github.com/alasulu/Advanced-Brain-Tumor-Detection-Algorithm-Utilizing-MATLAB-Project): This repository contains MATLAB preprocessing/segmentation, feature extraction code for the project. For the upcoming part of the project, use the WEKA with extracted features .csv files.
 - [MATLAB Image Processing Onramp](https://github.com/alasulu/MATLAB-Image-Processing-Onramp)
+- [Image Processing HW2](https://github.com/alasulu/Image-Processing-Self-HW1)
+- [Image Processing HW2](https://github.com/alasulu/Image-Processing-Self-HW2)
+- [Image Processing HW3](https://github.com/alasulu/Image-Processing-Self-HW3)
+- [Image Processing HW4](https://github.com/alasulu/Image-Processing-Self-HW4)
+- [Image Processing HW5](https://github.com/alasulu/Image-Processing-Self-HW5)
 - [Image Processing HW6](https://github.com/alasulu/Image-Processing-Self-HW6):
-- **[Project Name 4](https://github.com/yourusername/project4):** A brief description of what this project does.
-- **[Project Name 5](https://github.com/yourusername/project5):** A brief description of what this project does.
+
+- 
 
 ### LABVIEW Projects
 Here are some of my LabVIEW projects:
