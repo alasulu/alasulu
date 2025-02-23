@@ -90,22 +90,6 @@ Here are some of my LabVIEW projects:
 ### Other Projects
 - [ECG Respitory MATLAB App](https://github.com/alasulu/SAPA-ECG-Respitory-MATLAB-App): ECG and Respiratory Display Project in MATLAB. "Made by Oğuzhan Alasulu, Serkan Kıyaklı, Aliye Birgül"
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="30" alt="labview logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="matlab logo"  />
-</div>
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/oguzhan-alasulu/)
 - [Email Me](mailto:oguzhanalasulu@hotmail.com)
