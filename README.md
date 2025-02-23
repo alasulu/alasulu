@@ -1,4 +1,4 @@
-<h2 align="left">Welcome! My name is Oğuzhan Alasulu and I'm a Electrical-Electronics Engineer, </h2>
+<h2 align="left">Welcome! My name is Oğuzhan Alasulu and I'm a Electrical-Electronics Engineer </h2>
 
 ###
 
@@ -46,7 +46,7 @@ I'm an Electrical-Electronics Engineering student with a strong passion for RF, 
 ## Projects
 
 ### Image Processing Repositories in MATLAB
-Below are some of my MATLAB projects focused on image processing:
+Below are some of my MATLAB repositories focused on Image Processing:
 - [Advanced Brain Tumor-Detection Algorithm Utilizing MATLAB Project](https://github.com/alasulu/Advanced-Brain-Tumor-Detection-Algorithm-Utilizing-MATLAB-Project): This repository contains MATLAB preprocessing/segmentation, feature extraction code for the project. For the upcoming part of the project, use the WEKA with extracted features .csv files.
 - [MATLAB Image Processing Onramp](https://github.com/alasulu/MATLAB-Image-Processing-Onramp)
 - [Image Processing HW1](https://github.com/alasulu/Image-Processing-Self-HW1)
@@ -54,25 +54,45 @@ Below are some of my MATLAB projects focused on image processing:
 - [Image Processing HW3](https://github.com/alasulu/Image-Processing-Self-HW3)
 - [Image Processing HW4](https://github.com/alasulu/Image-Processing-Self-HW4)
 - [Image Processing HW5](https://github.com/alasulu/Image-Processing-Self-HW5)
-- [Image Processing HW6](https://github.com/alasulu/Image-Processing-Self-HW6):
+- [Image Processing HW6](https://github.com/alasulu/Image-Processing-Self-HW6)
 
+### Signal Processing Repositories in MATLAB
+Below are some of my MATLAB repositories focused on Signal Processing:
+- [Signal Processing with MATLAB](https://github.com/alasulu/Signal-Processing-with-MATLAB): All tasks in Signal Processing with MATLAB for repeating individually in live script format.
+- [Signal Processing Onramp with MATLAB](https://github.com/alasulu/MATLAB-Signal-Processing-Onramp)
+- [Signal Processing LAB1 & LAB 2](https://github.com/alasulu/Signal-Processing-MATLAB-LAB1_LAB2)
+- [Signal Processing LAB3, LAB4, LAB5, LAB6, LAB7](https://github.com/alasulu/Signal-Processing-MATLAB-LAB3-LAB4-LAB5-LAB6-LAB7)
+
+### Machine Learning in Python & Kaggle Courses:
+Below are some of my Python repositories focused on Machine Learning:
+- [ML Classifiers on MNIST Dataset Assignment](https://github.com/alasulu/ML-Classifiers-on-MNIST-Dataset-Assignment-): This repository consist of a self assignment to study about Classifiers on MNIST Dataset context in Python
+- [Machine Learning Linear Regression Assignment](https://github.com/alasulu/ML-Linear-Regression-Assignment) 
+- [Python Introduction Kaggle](https://github.com/alasulu/Python-Introduction)
+- [Python Kaggle](https://github.com/alasulu/Kaggle-Python)
+- [Python Introduction to Machine Learning Kaggle](https://github.com/alasulu/Kaggle-Introduction-to-ML)
+
+### Embedded C
+Below are some of my C repositories focused on Embedded Level C Coding:
+- [STM32 Line Follower Robot Embedded C Without Library](https://github.com/alasulu/STM32_LINE_FOLLOWER_ROBOT_EMBEDDED_C): STM32 line follower robot for adaptive cruise control with buzzer alert
+- [STM32 Timers](https://github.com/alasulu/STM32_TIMERS)
+- [STM32 Multiple Interrupts Debouncing](https://github.com/alasulu/STM32_Multiple_Interrupts_Debouncing)
+- [STM32 SysTick](https://github.com/alasulu/STM32_SysTick_Register_Level)
+- [STM32 Midterm Resources](https://github.com/alasulu/STM32_MIDTERM_RESOURCES)
 
 ### LABVIEW Projects
 Here are some of my LabVIEW projects:
-- **[Project Name 1](https://github.com/yourusername/labview-project1):** A brief description of what this project does.
-- **[Project Name 2](https://github.com/yourusername/labview-project2):** A brief description of what this project does.
-- **[Project Name 3](https://github.com/yourusername/labview-project3):** A brief description of what this project does.
-- **[Project Name 4](https://github.com/yourusername/labview-project4):** A brief description of what this project does.
-- **[Project Name 5](https://github.com/yourusername/labview-project5):** A brief description of what this project does.
+- [LABVIEW Equalizer ASK Modulation Project](https://github.com/alasulu/LABVIEW-Equalizer-ASK-Modulation-Project): This repository contains LabView ASK Modulation with 3 channel graphic equalizer. Additionally, repository comprises an example of real and unreal time 10 channel graphic equalizer with reverb and echo properties as a Simulink file.
+- [NI USRP2900 LABVIEW LAB2](https://github.com/alasulu/NI_USRP_Lab2)
+- [NI USRP2900 LABVIEW LAB3](https://github.com/alasulu/NI_USRP_Lab3)
+- [NI USRP2900 LABVIEW LAB5](https://github.com/alasulu/NI_USRP_Lab5)
+- [NI USRP2900 LABVIEW LAB7](https://github.com/alasulu/NI_USRP_Lab7)
 
 ### Other Projects
-- **RF & Antenna Design Projects:** A selection of projects related to RF and antenna theory.
-- **Embedded Systems Projects:** Various projects demonstrating embedded systems design and development.
-- **Analog Design Projects:** Projects focused on analog circuit design and simulation.
+- [ECG Respitory MATLAB App](https://github.com/alasulu/SAPA-ECG-Respitory-MATLAB-App): ECG and Respiratory Display Project in MATLAB. "Made by Oğuzhan Alasulu, Serkan Kıyaklı, Aliye Birgül"
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email Me](mailto:your-email@example.com)
-- [Portfolio/Website](https://yourwebsite.com)
+- [LinkedIn]((https://www.linkedin.com/in/oguzhan-alasulu/))
+- [Email Me](mailto:oguzhanalasulu@hotmail.com)
+- [Portfolio/Website]([https://yourwebsite.com](https://alasulu.blogspot.com))
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or have any questions!
