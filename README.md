@@ -1,4 +1,4 @@
-<h2 align="left">Welcome! My name is Oğuzhan Alasulu and I'm a Electrical-Electronics Engineer </h2>
+<h2 align="left">Welcome </h2>
 
 ###
 
